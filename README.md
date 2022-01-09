@@ -1,2 +1,2 @@
 # JAVA-CALCULATOR
-Calculator in Java
+Calculator in Java ☕ :iphone:
